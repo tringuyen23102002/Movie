@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tringuyen23102002/Movie.git/static/css/main.75891b43.css",
+    "main.js": "/tringuyen23102002/Movie.git/static/js/main.04dfaac2.js",
+    "index.html": "/tringuyen23102002/Movie.git/index.html",
+    "main.75891b43.css.map": "/tringuyen23102002/Movie.git/static/css/main.75891b43.css.map",
+    "main.04dfaac2.js.map": "/tringuyen23102002/Movie.git/static/js/main.04dfaac2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75891b43.css",
+    "static/js/main.04dfaac2.js"
+  ]
+}
